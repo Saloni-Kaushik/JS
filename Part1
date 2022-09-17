@@ -1,1 +1,11 @@
-
+<html lang="en">
+<head>
+	<title>Javascript Language Basics</title>
+</head>
+<body>	
+		<h1>Javascript Language Basics</h1>
+</body>
+<script>
+     console.log("Hello World!")
+</script>
+</html>
